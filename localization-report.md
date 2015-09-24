@@ -1,5 +1,7 @@
 # Localization Report
 
+ Primary Field | Secondary Field | Value 
+ ------------- | --------------- | ----- 
  Source File | | [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4d809360bb0f0c3186ddd90412755638025c0546/virtualization/community/community_overview.md)
  | Status | HandedBack
  | Target File | [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/cd0800308e45c9bb3f0717282dbab2b6fd817fe5/virtualization/community/community_overview.md)
