@@ -1,5 +1,11 @@
 # Localization Report
 
+## Summary
+ Property | Value 
+ -------- | ----- 
+ Total Files | 102
+ Handback Files | 102
+
 ## Source File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
