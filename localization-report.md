@@ -8,9 +8,9 @@
 [ Handback Files ](#handback-list)| 102
 [ Ignored Files ](#ignored-list)| 166
 
-## <a name='handoff-list'></a> Handoff File List([back to top](#report-top))
+## <a name='handoff-list'></a> Handoff File List
 
-## <a name='handback-list'></a> Handback File List([back to top](#report-top))
+## <a name='handback-list'></a> Handback File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4d809360bb0f0c3186ddd90412755638025c0546/virtualization/community/community_overview.md) | HandedBack | [Details](#08796bf856b1936c65df41076765d9f33d79e26892)
@@ -116,7 +116,7 @@
  [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4d809360bb0f0c3186ddd90412755638025c0546/virtualization/windowscontainers/reference/ps_docker_comparison.md) | HandedBack | [Details](#a9225b180b1df05d803b0ba2f23be237d7176f4d266)
  [virtualization\windowscontainers\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4d809360bb0f0c3186ddd90412755638025c0546/virtualization/windowscontainers/TOC.md) | HandedBack | [Details](#c9a613b41195c01471a39d59e0fccdb2e226b08a267)
 
-## <a name='ignored-list'></a> Ignored File List([back to top](#report-top))
+## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/.gitignore) | Ignored | [Details](#53dc443a626b71dd55acef1eb425626a2e091fc60)
