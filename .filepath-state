@@ -122,15 +122,6 @@
   "d5ff93f76a16632d5909862b698bee3b388b3e9d": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
   ],
-  "9d753332489389765c1ea1cfa1737126a201644c": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png"
-  ],
-  "579a5b151617e20cfb4e116a6f365a96dbaa9c4a": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_vm.png"
-  ],
-  "50819aee09462e65ad3e58e1498aeb2100326434": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png"
-  ],
   "12593a84a3881dd6f3e343af2777976f1505c9fc": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
   ],
@@ -281,14 +272,14 @@
   "09f8ea3c577b2683ba069e9b197ef3f5c9681ead": [
     "virtualization\\windowscontainers\\quick_start\\media\\docker1.png"
   ],
+  "a9f175f23fed1475c227ec1af2c524c918024bc4": [
+    "virtualization\\windowscontainers\\quick_start\\media\\nginx.png"
+  ],
   "19c1070cee496d52eba1b2ce80f4f939edccdffd": [
     "virtualization\\windowscontainers\\quick_start\\media\\hello.png"
   ],
   "2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a": [
     "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
-  ],
-  "a9f175f23fed1475c227ec1af2c524c918024bc4": [
-    "virtualization\\windowscontainers\\quick_start\\media\\nginx.png"
   ],
   "8c1510a894cbdfdb23c23ecdeeeedb2197e43c63": [
     "virtualization\\windowscontainers\\quick_start\\quickstart.md"
