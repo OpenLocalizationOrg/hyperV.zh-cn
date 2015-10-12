@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "f072ef7227d8f03357a9930d2c15e228d3707661",
+  "LastProcessedCommit": "ed4d81c53acc075a5f1996c2b800f4c928df9366",
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
       "SourceFileCommit": "f072ef7227d8f03357a9930d2c15e228d3707661",
@@ -1237,21 +1237,6 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": null
     },
-    "485512abd5884e46bdc5e80fc63d714154f8a51d": {
-      "SourceFileCommit": "f072ef7227d8f03357a9930d2c15e228d3707661",
-      "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\485512abd5884e46bdc5e80fc63d714154f8a51d.xlf",
-      "HandoffFileCommit": "3cadaf91cedfa279ed2789654a081f9114c8a204",
-      "HandoffReason": 1,
-      "HandoffDateTime": "2015-10-12T09:40:30.9242156Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
-    },
     "7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32": {
       "SourceFileCommit": "f072ef7227d8f03357a9930d2c15e228d3707661",
       "SourceFilePath": "virtualization\\windowscontainers\\EULA.md",
@@ -1602,6 +1587,21 @@
       "HandoffFileCommit": "3cadaf91cedfa279ed2789654a081f9114c8a204",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-10-12T09:40:30.9252162Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
+    },
+    "5bbad15bf08f3396361c96de5e810023c26c4b6c": {
+      "SourceFileCommit": "ed4d81c53acc075a5f1996c2b800f4c928df9366",
+      "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\5bbad15bf08f3396361c96de5e810023c26c4b6c.xlf",
+      "HandoffFileCommit": "5c14f009db58e8dbcdc640f79224bb55225e4e4d",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-10-12T10:03:56.5991686Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
