@@ -1,9 +1,10 @@
 ms.ContentId: C49DA0E6-2E12-4D51-803A-31B1B5A8F85C
 title: PowerShell Reference
 
-#PowerShell for Containers
 
-##Install-ContainerOSImage
+# PowerShell for Containers
+
+## Install-ContainerOSImage
 
 **NAME**      
 Install-ContainerOSImage
@@ -11,11 +12,10 @@ Install-ContainerOSImage
 **SYNOPSIS**  
 Installs the given WIM as a container OS image for use with Windows Server or Hyper-V Containers.
 
+
 **SYNTAX**  
 ``` PowerShell  
-Install-ContainerOSImage [-WimPath] <String> [-Force][< commonparameters >]
-
-
+Install-ContainerOSImage [-WimPath] <String> [-Force] [< CommonParameters >]
 ```
 
 **DESCRIPTION**  
@@ -45,7 +45,6 @@ Installs a base image from a WIM file into the shared central image store for th
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
 ```
 
 **INPUTS**      
@@ -61,8 +60,6 @@ None
 
 ``` PowerShell
 PS C:\>Install-ContainerOSImage c:\baseimage.wim
-
-
 ```
 
 ## Uninstall-ContainerOSImage
@@ -78,7 +75,6 @@ Removes a previously installed container OS image
 Uninstall-ContainerOSImage [-ImageName] <string> [-Force]  [< CommonParameters >]
 
 Uninstall-ContainerOSImage [-ContainerImage] <Object> [-Force]  [< CommonParameters >]
-
 ```
 
 **PARAMETERS**  
@@ -115,8 +111,6 @@ Uninstall-ContainerOSImage [-ContainerImage] <Object> [-Force]  [< CommonParamet
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -145,7 +139,6 @@ Add-ContainerNetworkAdapter [-ContainerName] <string[]> [-CimSession <CimSession
 
     Add-ContainerNetworkAdapter [-Container] <Container[]> [-SwitchName <string>] [-Name <string>]
     [-DynamicMacAddress] [-StaticMacAddress <string>] [-Passthru] [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -263,8 +256,6 @@ Add-ContainerNetworkAdapter [-ContainerName] <string[]> [-CimSession <CimSession
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 
@@ -296,7 +287,6 @@ Connect a container network adapter to a virtual switch
 
     Connect-ContainerNetworkAdapter [-NetworkAdapter] <ContainerNetworkAdapter[]> [-SwitchName] <string> [-Passthru]
     [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -396,8 +386,6 @@ Connect a container network adapter to a virtual switch
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -426,7 +414,6 @@ Disconnect a container network adapter from a virtual switch
 
     Disconnect-ContainerNetworkAdapter [-NetworkAdapter] <ContainerNetworkAdapter[]> [-Passthru] [-WhatIf] [-Confirm]
     [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -517,8 +504,6 @@ Disconnect a container network adapter from a virtual switch
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -548,7 +533,6 @@ Copy container image out of the local store
 
     Export-ContainerImage [-Image] <ContainerImage[]> [-Path] <string> [-AsJob] [-Passthru] [-WhatIf] [-Confirm]
     [<CommonParameters>]
-
 ```
 
 **PARAMETERS**
@@ -666,8 +650,6 @@ Copy container image out of the local store
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -696,7 +678,6 @@ Enumerate containers on the current system
 
     Get-Container [[-Id] <guid>] [-CimSession <CimSession[]>] [-ComputerName <string[]>] [-Credential
     <pscredential[]>]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -751,8 +732,6 @@ Enumerate containers on the current system
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -780,7 +759,6 @@ Get the host object for the container host
     Get-ContainerHost [[-ComputerName] <string[]>] [[-Credential] <pscredential[]>]  [<CommonParameters>]
 
     Get-ContainerHost [-CimSession] <CimSession[]>  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -817,8 +795,6 @@ Get the host object for the container host
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -846,7 +822,6 @@ List container images on the container host
 ``` PowerShell
 Get-ContainerImage [[-Name] <string>] [[-Publisher] <string>] [[-Version] <version>] [-ChildOf <ContainerImage>]
 [-CimSession <CimSession[]>] [-ComputerName <string[]>] [-Credential <pscredential[]>]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -919,8 +894,6 @@ Get-ContainerImage [[-Name] <string>] [[-Publisher] <string>] [[-Version] <versi
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -948,7 +921,6 @@ List network adapters associated with a container
     [-ComputerName <string[]>] [-Credential <pscredential[]>]  [<CommonParameters>]
 
     Get-ContainerNetworkAdapter [-Container] <Container[]> [[-Name] <string>]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -1012,8 +984,6 @@ List network adapters associated with a container
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -1040,7 +1010,6 @@ Import a container image that was exported from another computer
 ``` PowerShell
     Import-ContainerImage [-Path] <string> [-AsJob] [-CimSession <CimSession[]>] [-ComputerName <string[]>]
     [-Credential <pscredential[]>] [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -1113,8 +1082,6 @@ Import a container image that was exported from another computer
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -1140,7 +1107,6 @@ Change the location where container images are stored.  Must be a location on a 
 ``` PowerShell
     Move-ContainerImageRepository [-Path] <string> [-AsJob] [-Passthru] [-CimSession <CimSession[]>] [-ComputerName
     <string[]>] [-Credential <pscredential[]>] [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -1222,8 +1188,6 @@ Change the location where container images are stored.  Must be a location on a 
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -1254,7 +1218,6 @@ Create a new container
 
     New-Container [[-Name] <string>] -ContainerImage <ContainerImage> [-MemoryStartupBytes <long>] [-SwitchName
     <string>] [-Path <string>] [-AsJob] [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -1390,8 +1353,6 @@ Create a new container
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -1425,7 +1386,6 @@ Create a new container image from an existing container
     New-ContainerImage [-ContainerId] <guid> [-Name] <string> [-Publisher] <string> [-Version] <version> [-CimSession
     <CimSession[]>] [-ComputerName <string[]>] [-Credential <pscredential[]>] [-WhatIf] [-Confirm]
     [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -1534,8 +1494,6 @@ Create a new container image from an existing container
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -1564,7 +1522,6 @@ Remove an existing container from the system
 
     Remove-Container [-Container] <Container[]> [-Force] [-AsJob] [-Passthru] [-WhatIf] [-Confirm]
     [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -1664,8 +1621,6 @@ Remove an existing container from the system
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -1695,7 +1650,6 @@ Remove a container image from the container host
     [<CommonParameters>]
 
     Remove-ContainerImage [-Image] <ContainerImage> [-Force] [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -1795,8 +1749,6 @@ Remove a container image from the container host
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -1827,7 +1779,6 @@ Remove a network adapter from a container
 
     Remove-ContainerNetworkAdapter [-Container] <Container[]> [-Name <string>] [-Passthru] [-WhatIf] [-Confirm]
     [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -1927,8 +1878,6 @@ Remove a network adapter from a container
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -1963,7 +1912,6 @@ Set the MAC address on a network adapter in a container
 
     Set-ContainerNetworkAdapter [-Container] <Container> [-Name <string>] [-DynamicMacAddress] [-StaticMacAddress
     <string>] [-Passthru] [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -2081,8 +2029,6 @@ Set the MAC address on a network adapter in a container
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -2112,7 +2058,6 @@ Start a container
     <pscredential[]>] [-AsJob] [-Passthru] [-WhatIf] [-Confirm]  [<CommonParameters>]
 
     Start-Container [-Container] <Container[]> [-AsJob] [-Passthru] [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -2203,8 +2148,6 @@ Start a container
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -2234,7 +2177,6 @@ Stop a container
 
     Stop-Container [-Container] <Container[]> [-TurnOff] [-AsJob] [-Passthru] [-WhatIf] [-Confirm]
     [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -2334,8 +2276,6 @@ Stop a container
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-
-
 ```
 
 **INPUTS**  
@@ -2364,7 +2304,6 @@ Validate a container image on the container host system
     [-ComputerName <string[]>] [-Credential <pscredential[]>] [-AsJob] [-WhatIf] [-Confirm]  [<CommonParameters>]
 
     Test-ContainerImage [-Image] <ContainerImage> [-AsJob] [-WhatIf] [-Confirm]  [<CommonParameters>]
-
 ```
 
 **PARAMETERS**  
@@ -2464,14 +2403,15 @@ Validate a container image on the container host system
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
+```
 
 **INPUTS**  
 Microsoft.Containers.PowerShell.Objects.ContainerImage
 
+
 **OUTPUTS**  
 Microsoft.Containers.PowerShell.Objects.ContainerImageReport
 
+
 **ALIASES**  
 None
-
-
