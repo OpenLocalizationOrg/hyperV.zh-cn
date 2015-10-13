@@ -1577,21 +1577,6 @@
       "HandbackDateTime": "2015-10-13T08:59:01.9191515Z",
       "UpdatedDateTime": "2015-10-13T08:59:01.9191515Z",
       "DependencyFrom": null
-    },
-    "5bbad15bf08f3396361c96de5e810023c26c4b6c": {
-      "SourceFileCommit": "ed4d81c53acc075a5f1996c2b800f4c928df9366",
-      "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\5bbad15bf08f3396361c96de5e810023c26c4b6c.xlf",
-      "HandoffFileCommit": "5c14f009db58e8dbcdc640f79224bb55225e4e4d",
-      "HandoffReason": 1,
-      "HandoffDateTime": "2015-10-12T10:03:56.5991686Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
     }
   }
 }
