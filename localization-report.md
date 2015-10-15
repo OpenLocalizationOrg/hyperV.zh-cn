@@ -2140,11 +2140,11 @@
 
 ##### <a name='0daa8871ae38daded4cd33ae5a526414dfe99a71181'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
 * Status: HandedBack
-* Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/c79e94ce612d502758f204eaedfffb9ed1cd82ca/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
+* Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/bca2e1f2b6ee2be9165cdb7369cb0416d32f4cf4/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
 * Handoff File: [0daa8871ae38daded4cd33ae5a526414dfe99a71.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3cadaf91cedfa279ed2789654a081f9114c8a204/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/0daa8871ae38daded4cd33ae5a526414dfe99a71.xlf)
-* Handback File: [0daa8871ae38daded4cd33ae5a526414dfe99a71.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/4b63487b27788b44e4a9b44c595f0cabb5ddf71e/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/archive/0daa8871ae38daded4cd33ae5a526414dfe99a71.xlf)
+* Handback File: [0daa8871ae38daded4cd33ae5a526414dfe99a71.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/d06df55c39edab2b08a5c52e531fa1af225b6d01/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/archive/0daa8871ae38daded4cd33ae5a526414dfe99a71.xlf)
 * Handoff Datetime: 2015-10-12 09:40:30
-* Handback Datetime: 2015-10-13 08:59:01
+* Handback Datetime: 2015-10-15 09:04:59
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
