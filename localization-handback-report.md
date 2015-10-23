@@ -1,7 +1,7 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 97
+ Total Files | 96
 
 ## File List
  Source File | Status | Details 
@@ -82,7 +82,6 @@
  [virtualization\windowscontainers\about\media\containerfund.png](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/about/media/containerfund.png) | HandedBack | [Details](#b62d8af1f08bc8085945c8aa154d46d2215879cb208)
  [virtualization\windowscontainers\about\work_in_progress.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/about/work_in_progress.md) | HandedBack | [Details](#090e2dccc937df4c7a80f63b447cb733af5020a3216)
  [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/EULA.md) | HandedBack | [Details](#7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32219)
- [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/quick_start/azure_setup.md) | HandedBack | [Details](#d82cfc8ade5b456e690bd35933eb2b939a4ed847224)
  [virtualization\windowscontainers\quick_start\container_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/quick_start/container_setup.md) | HandedBack | [Details](#bca267ee574504e3cb6d2c42f2aa095a3ace3619225)
  [virtualization\windowscontainers\quick_start\inplace_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/quick_start/inplace_setup.md) | HandedBack | [Details](#8ff71abc14066d1fcaf3324d44c3e6be492a93cc226)
  [virtualization\windowscontainers\quick_start\manage_docker.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/quick_start/manage_docker.md) | HandedBack | [Details](#f33e1b71d387e12b9baf442cdbf79912961da149227)
@@ -907,16 +906,6 @@
 * Target File: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/2a943d16b2077df84bf3d73453642c134985779b/virtualization/windowscontainers/EULA.md)
 * Handoff File: [7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3cadaf91cedfa279ed2789654a081f9114c8a204/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32.xlf)
 * Handback File: [7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/4b2fe5d496100f9cfd7562efcf2ae1d518aa3550/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/archive/7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32.xlf)
-* Handoff Datetime: 2015-10-12 09:40:30
-* Handback Datetime: 2015-10-15 09:30:23
-* Handoff Reason: Include
-* [Back to Top](#report-top)
-
-##### <a name='d82cfc8ade5b456e690bd35933eb2b939a4ed847224'></a> Source: [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/quick_start/azure_setup.md)
-* Status: HandedBack
-* Target File: [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/2a943d16b2077df84bf3d73453642c134985779b/virtualization/windowscontainers/quick_start/azure_setup.md)
-* Handoff File: [d82cfc8ade5b456e690bd35933eb2b939a4ed847.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3cadaf91cedfa279ed2789654a081f9114c8a204/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/d82cfc8ade5b456e690bd35933eb2b939a4ed847.xlf)
-* Handback File: [d82cfc8ade5b456e690bd35933eb2b939a4ed847.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/4b2fe5d496100f9cfd7562efcf2ae1d518aa3550/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/archive/d82cfc8ade5b456e690bd35933eb2b939a4ed847.xlf)
 * Handoff Datetime: 2015-10-12 09:40:30
 * Handback Datetime: 2015-10-15 09:30:23
 * Handoff Reason: Include
