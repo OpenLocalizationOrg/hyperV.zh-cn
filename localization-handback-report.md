@@ -1,32 +1,21 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1ca71073e191c69f8d974282599fe59f1a3c7417/virtualization/community/community_overview.md) | HandedBack | [Details](#08796bf856b1936c65df41076765d9f33d79e26892)
- [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1ca71073e191c69f8d974282599fe59f1a3c7417/virtualization/windowscontainers/quick_start/azure_setup.md) | HandedBack | [Details](#deea6a30461322b6de7138425b7c24f131bca51b224)
+ [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/a505864cc0d73fcd3f2c8db75da179977aa7f347/virtualization/windowscontainers/containers_welcome.md) | HandedBack | [Details](#2c76787127772f0d0fe7a8f95c3f8b79d4ffbb5f217)
 
 ## Item Details
-##### <a name='08796bf856b1936c65df41076765d9f33d79e26892'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1ca71073e191c69f8d974282599fe59f1a3c7417/virtualization/community/community_overview.md)
+##### <a name='2c76787127772f0d0fe7a8f95c3f8b79d4ffbb5f217'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/a505864cc0d73fcd3f2c8db75da179977aa7f347/virtualization/windowscontainers/containers_welcome.md)
 * Status: HandedBack
-* Target File: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/50698489b8efafd13783b72fb0980a0db41c1716/virtualization/community/community_overview.md)
-* Handoff File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/93ec9e3fb5ab575502c7a9c132c5dfe8778c2de7/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf)
-* Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/73eb1d7d6a1fcc3b74d3a683a1e6cac53032d0e6/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf)
-* Handoff Datetime: 2015-10-23 11:20:23
-* Handback Datetime: 2015-10-23 11:51:34
-* Handoff Reason: Include
-* [Back to Top](#report-top)
-
-##### <a name='deea6a30461322b6de7138425b7c24f131bca51b224'></a> Source: [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1ca71073e191c69f8d974282599fe59f1a3c7417/virtualization/windowscontainers/quick_start/azure_setup.md)
-* Status: HandedBack
-* Target File: [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/50698489b8efafd13783b72fb0980a0db41c1716/virtualization/windowscontainers/quick_start/azure_setup.md)
-* Handoff File: [azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/93ec9e3fb5ab575502c7a9c132c5dfe8778c2de7/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.zh-cn.xlf)
-* Handback File: [azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/73eb1d7d6a1fcc3b74d3a683a1e6cac53032d0e6/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.zh-cn.xlf)
-* Handoff Datetime: 2015-10-23 11:20:23
-* Handback Datetime: 2015-10-23 11:51:34
+* Target File: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/574b5fb445903e1c39c46e3d2f4a1716b7915023/virtualization/windowscontainers/containers_welcome.md)
+* Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8c87f8f4304670e41352510e84d1d54c30f09ddc/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-cn.xlf)
+* Handback File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/07908ecf02e4a9f170eebe40736f1d9d476eba02/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-cn.xlf)
+* Handoff Datetime: 2015-10-26 09:23:58
+* Handback Datetime: 2015-10-26 09:41:23
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
