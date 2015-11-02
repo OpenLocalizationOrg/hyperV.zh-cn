@@ -4,6 +4,8 @@ This topic explains the new and changed functionality in Hyper-V on Windows 10®
 
 ##Windows PowerShell Direct
 
+THIS SHOULD TRIGGER ANOTHER HANDOFF
+
 There is a now an easy and reliable way to run Windows PowerShell commands inside a virtual machine from the host operating system.
 There are no network or firewall requirements or special configuration.
 It works regardless of your remote management configuration.
@@ -188,6 +190,7 @@ See [this blog](http://blogs.msdn.com/b/virtual_pc_guy/archive/2014/11/12/updati
 ##Next Step
 
 [Walk through Hyper-V on Windows 10](..\quick_start\walkthrough.md)
+
 
 
 
