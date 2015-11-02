@@ -14,7 +14,6 @@ There is also a lot to see on the [Docker community](https://www.docker.com/comm
 ##User Forums
 
 * [Windows Containers forum](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowscontainers)
-    
 * [TechNet forum](https://social.technet.microsoft.com/Forums/windowsserver/en-US/home "TechNet Forums")
 * [Azure forum](http://azure.microsoft.com/en-us/support/forums/)
 
