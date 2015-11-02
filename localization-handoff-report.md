@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c7f0b6e329600314d829869ce2c06c9e3a90235b/virtualization/windowscontainers/containers_welcome.md) | HandedOff | [Details](#389a763b198f6edffdf89a7c59bab19036bfe966218)
+ [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/002e54193e42022098a65952d8168d496970159b/virtualization/community/community_overview.md) | HandedOff | [Details](#f8d11d3ae6fb0042b3062da5568ada44291246d393)
 
 ## Item Details
-##### <a name='389a763b198f6edffdf89a7c59bab19036bfe966218'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c7f0b6e329600314d829869ce2c06c9e3a90235b/virtualization/windowscontainers/containers_welcome.md)
+##### <a name='f8d11d3ae6fb0042b3062da5568ada44291246d393'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/002e54193e42022098a65952d8168d496970159b/virtualization/community/community_overview.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/handoff1/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-cn.xlf)
+* Handoff File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ecc78e8a0badf14f7151bdb149e20b883a4d6ac8/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/handoff1/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:22:23
+* Handoff Datetime: 2015-11-02 13:23:39
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)
