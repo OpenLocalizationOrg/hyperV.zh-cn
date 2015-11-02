@@ -4,6 +4,8 @@ This article lists the Windows operating systems supported as guests in Hyper-V 
 
 > New Windows 10 runs as a guest operating system on Windows 8.1 and Windows Server 2012 R2 Hyper-V hosts.
 
+THIS SHOULD TRIGGER another HANDOFF
+
 ##What does support mean?
 
 Support means Microsoft has tested these host/guest combinations.
