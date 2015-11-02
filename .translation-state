@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "a505864cc0d73fcd3f2c8db75da179977aa7f347",
+  "LastProcessedCommit": "5417a4a6e7bc239c31bb647fce9a009f4b14321d",
   "LastTranslatedCommit": "3cb4564607a0e6d061359db7567139ea1c19640a",
   "Items": {
     "d95757903564f8beea62ad4d2977764d431eeeb8": {
@@ -1637,6 +1637,104 @@
       "HandbackFileCommit": "ce402dac9f4120d4b0a520abacaca6b38b792a20",
       "HandbackDateTime": "2015-10-27T05:39:04.0524039Z",
       "UpdatedDateTime": "2015-10-27T05:39:04.0524039Z",
+      "DependencyFrom": null
+    },
+    "ed968510a1e72e532a3e4df850bed9a40050619c": {
+      "SourceFileCommit": "5417a4a6e7bc239c31bb647fce9a009f4b14321d",
+      "SourceFilePath": "virtualization\\community\\community_overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf",
+      "HandoffFileCommit": "fd9e841e200f0cf39bad8f4d39142751bb87b815",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-02T17:02:55.2539111Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
+    },
+    "44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4": {
+      "SourceFileCommit": "5417a4a6e7bc239c31bb647fce9a009f4b14321d",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\command_grid.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4.png",
+      "HandoffFileCommit": "fd9e841e200f0cf39bad8f4d39142751bb87b815",
+      "HandoffReason": 2,
+      "HandoffDateTime": "2015-11-02T17:02:55.2539111Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
+      ]
+    },
+    "9d753332489389765c1ea1cfa1737126a201644c": {
+      "SourceFileCommit": "5417a4a6e7bc239c31bb647fce9a009f4b14321d",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\9d753332489389765c1ea1cfa1737126a201644c.png",
+      "HandoffFileCommit": "fd9e841e200f0cf39bad8f4d39142751bb87b815",
+      "HandoffReason": 2,
+      "HandoffDateTime": "2015-11-02T17:02:55.2539111Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
+      ]
+    },
+    "579a5b151617e20cfb4e116a6f365a96dbaa9c4a": {
+      "SourceFileCommit": "5417a4a6e7bc239c31bb647fce9a009f4b14321d",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\get_vm.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\579a5b151617e20cfb4e116a6f365a96dbaa9c4a.png",
+      "HandoffFileCommit": "fd9e841e200f0cf39bad8f4d39142751bb87b815",
+      "HandoffReason": 2,
+      "HandoffDateTime": "2015-11-02T17:02:55.2539111Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
+      ]
+    },
+    "50819aee09462e65ad3e58e1498aeb2100326434": {
+      "SourceFileCommit": "5417a4a6e7bc239c31bb647fce9a009f4b14321d",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\50819aee09462e65ad3e58e1498aeb2100326434.png",
+      "HandoffFileCommit": "fd9e841e200f0cf39bad8f4d39142751bb87b815",
+      "HandoffReason": 2,
+      "HandoffDateTime": "2015-11-02T17:02:55.2539111Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
+      ]
+    },
+    "904386d6f4618b3b78579188801869da2fe6ba13": {
+      "SourceFileCommit": "5417a4a6e7bc239c31bb647fce9a009f4b14321d",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf",
+      "HandoffFileCommit": "fd9e841e200f0cf39bad8f4d39142751bb87b815",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-02T17:02:55.2539111Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": null
     }
   }
