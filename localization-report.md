@@ -4,14 +4,13 @@
  Property | Value 
  -------- | ----- 
  Total Files | 269
-[ Handoff Files ](#handoff-list)| 83
-[ Handback Files ](#handback-list)| 20
+[ Handoff Files ](#handoff-list)| 82
+[ Handback Files ](#handback-list)| 21
 [ Ignored Files ](#ignored-list)| 166
 
 ## <a name='handoff-list'></a> Handoff File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/002e54193e42022098a65952d8168d496970159b/virtualization/community/community_overview.md) | HandedOff | [Details](#f8d11d3ae6fb0042b3062da5568ada44291246d393)
  [virtualization\hyperv_on_windows\about\media\ProductionCheckpoints_new.png](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/about/media/ProductionCheckpoints_new.png) | HandedOff | [Details](#00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed099)
  [virtualization\hyperv_on_windows\media\1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/media/1.png) | HandedOff | [Details](#90b18083c5e836b383786e364b91c37fde16adff106)
  [virtualization\hyperv_on_windows\quick_start\media\after_delete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/quick_start/media/after_delete.png) | HandedOff | [Details](#61d3a219c4976b61137f6b8c6739135a4d917265121)
@@ -98,6 +97,7 @@
 ## <a name='handback-list'></a> Handback File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/002e54193e42022098a65952d8168d496970159b/virtualization/community/community_overview.md) | HandedBack | [Details](#f8d11d3ae6fb0042b3062da5568ada44291246d393)
  [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/community/TOC.md) | HandedBack | [Details](#d95757903564f8beea62ad4d2977764d431eeeb895)
  [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md) | HandedBack | [Details](#b23c1bcf3ca7d96f054fff51817fa6740ba5e36198)
  [virtualization\hyperv_on_windows\about\supported_guest_os.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/about/supported_guest_os.md) | HandedBack | [Details](#7c81ad16e094e7991716b59d4b80a8409ea7ef80101)
@@ -1221,12 +1221,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f8d11d3ae6fb0042b3062da5568ada44291246d393'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/002e54193e42022098a65952d8168d496970159b/virtualization/community/community_overview.md)
-* Status: HandedOff
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/64e52d0a46a408a7694db2d1be70f68174ebc694/virtualization/community/community_overview.md)
 * Handoff File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ecc78e8a0badf14f7151bdb149e20b883a4d6ac8/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/handoff1/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf)
-* Handback File: 
+* Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/c039a9fc3c8595db5bbc9389acd9e076b1ab1a93/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/handoff1/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf)
 * Handoff Datetime: 2015-11-02 13:23:39
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-02 13:31:33
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
