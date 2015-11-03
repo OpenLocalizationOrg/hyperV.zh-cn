@@ -1,4 +1,4 @@
-#Hyper-V on Windows 10.1
+#Hyper-V on Windows 10
 
 ![image](media/1.png)
 
