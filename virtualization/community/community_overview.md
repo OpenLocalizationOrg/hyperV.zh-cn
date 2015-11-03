@@ -1,7 +1,9 @@
 ms.ContentId: 2b4ba69c-51a0-465c-a464-dca696cda744 
 title: Community Resources
 
-#Community Resources 测试5
+#Hello world
+
+#Community Resources
 
 Check out resources available to the user community.
 There is also a lot to see on the [Docker community](https://www.docker.com/community/participate/) pages.
@@ -45,6 +47,7 @@ There is also a lot to see on the [Docker community](https://www.docker.com/comm
 * [Virtual Machines and Containers in Azure](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-vms-containers/)
 * [New Windows Server containers and Azure support for Docker](http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/)
 * [Microsoft Announces New Container Technologies for the Next Generation Cloud](http://blogs.technet.com/b/server-cloud/archive/2015/04/08/microsoft-announces-new-container-technologies-for-the-next-generation-cloud.aspx)
+
 
 
 
