@@ -1,7 +1,7 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 83
+ Total Files | 82
 
 ## File List
  Source File | Status | Details 
@@ -67,7 +67,6 @@
  [virtualization\hyperv_on_windows\user_guide\troubleshooting.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/user_guide/troubleshooting.md) | HandedBack | [Details](#033950f25a30f7bccb308c22d6fa96b166d7ed01199)
  [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md) | HandedBack | [Details](#aa52aec3f340382372099f311751e7efe7284749200)
  [virtualization\hyperv_on_windows\user_guide\vmsession.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/user_guide/vmsession.md) | HandedBack | [Details](#8038edc8eac0a017e688401c61e5a78787f26bd6201)
- [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2e2217b342b6208cadbfefe8dda93c05cd4bfe60/virtualization/hyperv_on_windows/windows_welcome.md) | HandedBack | [Details](#d8974c5f1e79317c904664878938ba50c6463a93202)
  [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/about/about_overview.md) | HandedBack | [Details](#1cd230752f52bb9786821493df48c8a5a2a2f903204)
  [virtualization\windowscontainers\about\container_ecosystem.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/about/container_ecosystem.md) | HandedBack | [Details](#6c0ebd80ac08763eafebe935b08194a526ad59fa205)
  [virtualization\windowscontainers\about\faq.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/about/faq.md) | HandedBack | [Details](#f176f83a5f5bc76e32b5687866d2ced7d0a91d57206)
@@ -742,16 +741,6 @@
 * Target File: [virtualization\hyperv_on_windows\user_guide\vmsession.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/35c10240606170906cf11dc09c2cefaf9381413f/virtualization/hyperv_on_windows/user_guide/vmsession.md)
 * Handoff File: [vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7fda5cc72d4b681284bbfd770e5589c03f1a9306/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/handoff1/vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.zh-cn.xlf)
 * Handback File: [vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/847181a16df10222b43ddfd493abcf04826048be/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/handoff1/vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.zh-cn.xlf)
-* Handoff Datetime: 2015-11-03 01:23:05
-* Handback Datetime: 2015-11-03 01:26:01
-* Handoff Reason: Include
-* [Back to Top](#report-top)
-
-##### <a name='d8974c5f1e79317c904664878938ba50c6463a93202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2e2217b342b6208cadbfefe8dda93c05cd4bfe60/virtualization/hyperv_on_windows/windows_welcome.md)
-* Status: HandedBack
-* Target File: [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/35c10240606170906cf11dc09c2cefaf9381413f/virtualization/hyperv_on_windows/windows_welcome.md)
-* Handoff File: [windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7fda5cc72d4b681284bbfd770e5589c03f1a9306/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/handoff1/windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf)
-* Handback File: [windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/847181a16df10222b43ddfd493abcf04826048be/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/handoff1/windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf)
 * Handoff Datetime: 2015-11-03 01:23:05
 * Handback Datetime: 2015-11-03 01:26:01
 * Handoff Reason: Include
