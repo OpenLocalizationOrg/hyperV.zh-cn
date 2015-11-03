@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "699a4d86955afb8e0563c60c89035b7326809c1c",
+  "LastProcessedCommit": "258e79a4cc1540d16b66e06bd5e5354bf1a88f3d",
   "LastTranslatedCommit": "b1d299e440a3282b4aa049d4a2ab9f8ed6bc4890",
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
@@ -1720,6 +1720,36 @@
       "HandbackFileCommit": "25b4eed83ae68b9104aba95cdf203b3544099ec7",
       "HandbackDateTime": "2015-11-02T14:48:01.8538005Z",
       "UpdatedDateTime": "2015-11-02T14:48:01.8538005Z",
+      "DependencyFrom": null
+    },
+    "ed968510a1e72e532a3e4df850bed9a40050619c": {
+      "SourceFileCommit": "258e79a4cc1540d16b66e06bd5e5354bf1a88f3d",
+      "SourceFilePath": "virtualization\\community\\community_overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\handoff2\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf",
+      "HandoffFileCommit": "f090f97e1ba2d198015f7210752ab1fe72d31a6f",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-03T01:46:09.6403525Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
+    },
+    "078131cd6963f4c1efaa49aa585f24f72d5eb783": {
+      "SourceFileCommit": "258e79a4cc1540d16b66e06bd5e5354bf1a88f3d",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\handoff2\\windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf",
+      "HandoffFileCommit": "f090f97e1ba2d198015f7210752ab1fe72d31a6f",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-03T01:46:09.6403525Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": null
     }
   }
