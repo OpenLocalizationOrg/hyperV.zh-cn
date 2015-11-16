@@ -5,7 +5,7 @@
   "d95757903564f8beea62ad4d2977764d431eeeb8": [
     "virtualization\\community\\TOC.md"
   ],
-  "b23c1bcf3ca7d96f054fff51817fa6740ba5e361": [
+  "cbbce5951ccdf4ff1a3a5b98adf62f364c5c9aed": [
     "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md"
   ],
   "00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0": [
@@ -218,7 +218,7 @@
   "8038edc8eac0a017e688401c61e5a78787f26bd6": [
     "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
   ],
-  "8ca36041a4652bcceb536128d63ea6ab8f64f98b": [
+  "1d8e13525f8850d407076844a3fb3c95b4815788": [
     "virtualization\\hyperv_on_windows\\windows_welcome.md"
   ],
   "1cd230752f52bb9786821493df48c8a5a2a2f903": [
@@ -307,6 +307,12 @@
   ],
   "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
     "virtualization\\windowscontainers\\TOC.md"
+  ],
+  "b23c1bcf3ca7d96f054fff51817fa6740ba5e361": [
+    "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md"
+  ],
+  "8ca36041a4652bcceb536128d63ea6ab8f64f98b": [
+    "virtualization\\hyperv_on_windows\\windows_welcome.md"
   ],
   "904386d6f4618b3b78579188801869da2fe6ba13": [
     "virtualization\\hyperv_on_windows\\windows_welcome.md"
