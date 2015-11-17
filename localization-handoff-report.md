@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2ae3c452e3cea915bc336234ec965b6760b635d2/virtualization/hyperv_on_windows/windows_welcome.md) | PartialHandedBack | [Details](#dade44f0cacc27983dc4fe39525d86391dccd5a8201)
+ [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/43de3dd14e353372185d9591d0a74cd2fbbffce8/virtualization/hyperv_on_windows/windows_welcome.md) | PartialHandedBack | [Details](#7766f051b53f06fc6faf2a1d45e3d72e4ef5bd79201)
 
 ## Item Details
-##### <a name='dade44f0cacc27983dc4fe39525d86391dccd5a8201'></a> Source: [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2ae3c452e3cea915bc336234ec965b6760b635d2/virtualization/hyperv_on_windows/windows_welcome.md)
+##### <a name='7766f051b53f06fc6faf2a1d45e3d72e4ef5bd79201'></a> Source: [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/43de3dd14e353372185d9591d0a74cd2fbbffce8/virtualization/hyperv_on_windows/windows_welcome.md)
 * Status: PartialHandedBack
 * Target File: 
-* Handoff File: [windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e69382ce77d4580c03cf05d84113b5086ceb9420/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf)
-* Handoff Datetime: 2015-11-16 08:42:28
+* Handoff File: [windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2531742c93daae2c29c09e2250a8a46c7c1a9227/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf)
+* Handoff Datetime: 2015-11-17 01:40:52
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00

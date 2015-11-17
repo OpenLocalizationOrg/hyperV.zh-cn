@@ -206,6 +206,9 @@
   "8038edc8eac0a017e688401c61e5a78787f26bd6": [
     "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
   ],
+  "7766f051b53f06fc6faf2a1d45e3d72e4ef5bd79": [
+    "virtualization\\hyperv_on_windows\\windows_welcome.md"
+  ],
   "dade44f0cacc27983dc4fe39525d86391dccd5a8": [
     "virtualization\\hyperv_on_windows\\windows_welcome.md"
   ],
