@@ -11,8 +11,14 @@
   "00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0": [
     "virtualization\\hyperv_on_windows\\about\\media\\ProductionCheckpoints_new.png"
   ],
+  "7c81ad16e094e7991716b59d4b80a8409ea7ef80": [
+    "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
+  ],
   "b2c94ac52ef618490102103406d0ed0e4366a42b": [
     "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
+  ],
+  "18ddc4fbc1c483e781564019ade6261d7e099552": [
+    "virtualization\\hyperv_on_windows\\about\\whats_new.md"
   ],
   "0f9464f2f6084b3aa09bab39562c5a6644f2b26e": [
     "virtualization\\hyperv_on_windows\\about\\whats_new.md"
