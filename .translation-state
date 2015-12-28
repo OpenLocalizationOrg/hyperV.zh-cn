@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "bf08fa863ea092aa877816a49cc2f1b5aa64e3ae",
+  "LastProcessedCommit": "6f8e9a326b6175926c961395acd3ccf4bc6262af",
   "LastTranslatedCommit": "3cb4564607a0e6d061359db7567139ea1c19640a",
   "Items": {
     "d95757903564f8beea62ad4d2977764d431eeeb8": {
@@ -2457,8 +2457,8 @@
         "virtualization\\community\\community_overview.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf",
-      "HandoffFileCommit": "fd9e841e200f0cf39bad8f4d39142751bb87b815",
-      "HandoffDateTime": "2015-11-02T17:02:55.2539111Z",
+      "HandoffFileCommit": "460a55695b92602e1562522813370221391fa86b",
+      "HandoffDateTime": "2015-12-28T02:55:41.9933958Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2482,8 +2482,8 @@
         "virtualization\\hyperv_on_windows\\quick_start\\media\\command_grid.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4.png",
-      "HandoffFileCommit": "ebe493a2b970ebe34739f440c2035e68073b236f",
-      "HandoffDateTime": "2015-12-25T09:26:32.3511513Z",
+      "HandoffFileCommit": "460a55695b92602e1562522813370221391fa86b",
+      "HandoffDateTime": "2015-12-28T02:55:41.9933958Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2507,8 +2507,8 @@
         "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\9d753332489389765c1ea1cfa1737126a201644c.png",
-      "HandoffFileCommit": "ebe493a2b970ebe34739f440c2035e68073b236f",
-      "HandoffDateTime": "2015-12-25T09:26:32.3511513Z",
+      "HandoffFileCommit": "460a55695b92602e1562522813370221391fa86b",
+      "HandoffDateTime": "2015-12-28T02:55:41.9933958Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2532,8 +2532,8 @@
         "virtualization\\hyperv_on_windows\\quick_start\\media\\get_vm.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\579a5b151617e20cfb4e116a6f365a96dbaa9c4a.png",
-      "HandoffFileCommit": "ebe493a2b970ebe34739f440c2035e68073b236f",
-      "HandoffDateTime": "2015-12-25T09:26:32.3511513Z",
+      "HandoffFileCommit": "460a55695b92602e1562522813370221391fa86b",
+      "HandoffDateTime": "2015-12-28T02:55:41.9933958Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2557,8 +2557,8 @@
         "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\50819aee09462e65ad3e58e1498aeb2100326434.png",
-      "HandoffFileCommit": "ebe493a2b970ebe34739f440c2035e68073b236f",
-      "HandoffDateTime": "2015-12-25T09:26:32.3511513Z",
+      "HandoffFileCommit": "460a55695b92602e1562522813370221391fa86b",
+      "HandoffDateTime": "2015-12-28T02:55:41.9933958Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2626,8 +2626,8 @@
         "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\hyperv_on_windows_new.843266a46ea6fc806eee76f3d077a552855f8891.zh-cn.xlf",
-      "HandoffFileCommit": "1f3b3a749b63959ad05893e6401d6725bfc23127",
-      "HandoffDateTime": "2015-11-16T04:41:30.6747619Z",
+      "HandoffFileCommit": "460a55695b92602e1562522813370221391fa86b",
+      "HandoffDateTime": "2015-12-28T02:55:41.9933958Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2741,8 +2741,8 @@
         "virtualization\\hyperv_on_windows\\windows_welcome.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.zh-cn.xlf",
-      "HandoffFileCommit": "2531742c93daae2c29c09e2250a8a46c7c1a9227",
-      "HandoffDateTime": "2015-11-17T01:40:52.314173Z",
+      "HandoffFileCommit": "460a55695b92602e1562522813370221391fa86b",
+      "HandoffDateTime": "2015-12-28T02:55:41.9933958Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
