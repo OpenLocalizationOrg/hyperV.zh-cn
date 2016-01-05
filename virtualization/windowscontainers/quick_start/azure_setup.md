@@ -23,7 +23,6 @@ If you have an Azure account, skip straight to [Create a Container Host VM](#Cre
 
 Click on the following link to start the VM creation process – [New Windows Server Container Host in Azure](https://portal.azure.com/#gallery/Microsoft.WindowsServer2016TechnicalPreviewwithContainers).
 
-
 You can also search for the image in the Azure gallery.
 
 Click on the `create` button.
@@ -52,7 +51,6 @@ Once logged in you will be looking at a Windows command prompt.
 
 ![](media/newazure7.png)
 
-
 ##Video Walkthrough
 
 <iframe src="https://channel9.msdn.com/Blogs/containers/Quick-Start-Configure-Windows-Server-Containers-in-Microsoft-Azure/player" width="800" height="450" allowFullScreen="true" frameBorder="0" scrolling="no"></iframe>
@@ -62,10 +60,8 @@ Once logged in you will be looking at a Windows command prompt.
 
 Now that you have a Windows Server 2016 system running the Windows Server Container feature jump to the following guides to begin working with Windows Server Containers and Windows Server Container images.
 
-
 [Quick Start: Windows Server Containers and Docker](./manage_docker.md)  
 [Quick Start: Windows Server Containers and PowerShell](./manage_powershell.md)
-
 
 -------------------
 
