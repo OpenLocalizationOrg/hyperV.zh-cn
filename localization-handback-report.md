@@ -1,7 +1,7 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 103
+ Total Files | 100
 
 ## File List
  Source File | Status | Details 
@@ -10,8 +10,6 @@
  [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/community/TOC.md) | InSyncHandedBackSuccess | [Details](#d95757903564f8beea62ad4d2977764d431eeeb895)
  [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md) | InSyncHandedBackSuccess | [Details](#cbbce5951ccdf4ff1a3a5b98adf62f364c5c9aed98)
  [virtualization\hyperv_on_windows\about\media\ProductionCheckpoints_new.png](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/about/media/ProductionCheckpoints_new.png) | InSyncHandedBackSuccess | [Details](#00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed099)
- [virtualization\hyperv_on_windows\about\supported_guest_os.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/about/supported_guest_os.md) | HandedBackFailed | [Details](#7c81ad16e094e7991716b59d4b80a8409ea7ef80101)
- [virtualization\hyperv_on_windows\about\whats_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/about/whats_new.md) | HandedBackFailed | [Details](#18ddc4fbc1c483e781564019ade6261d7e099552102)
  [virtualization\hyperv_on_windows\develop\make_mgmt_servic.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/develop/make_mgmt_servic.md) | InSyncHandedBackSuccess | [Details](#175fe300a03c01dfc6e8e1d2cf000e8612a7bec4103)
  [virtualization\hyperv_on_windows\develop\powershell_snippets.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/develop/powershell_snippets.md) | InSyncHandedBackSuccess | [Details](#2fe214e2a741bb53de8e5d3ff3d2129f195a3208104)
  [virtualization\hyperv_on_windows\media\1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/media/1.png) | InSyncHandedBackSuccess | [Details](#90b18083c5e836b383786e364b91c37fde16adff106)
@@ -80,7 +78,6 @@
  [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md) | InSyncHandedBackSuccess | [Details](#aa52aec3f340382372099f311751e7efe7284749200)
  [virtualization\hyperv_on_windows\user_guide\vmsession.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/user_guide/vmsession.md) | InSyncHandedBackSuccess | [Details](#8038edc8eac0a017e688401c61e5a78787f26bd6201)
  [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/windows_welcome.md) | InSyncHandedBackSuccess | [Details](#4cf779a0ac1897c0665868c3fa8d26032e3d6013202)
- [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/windowscontainers/about/about_overview.md) | HandedBackFailed | [Details](#c7ff2602aef25add233f1e67bc0e020244895c48204)
  [virtualization\windowscontainers\about\container_ecosystem.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/windowscontainers/about/container_ecosystem.md) | InSyncHandedBackSuccess | [Details](#6c0ebd80ac08763eafebe935b08194a526ad59fa205)
  [virtualization\windowscontainers\about\faq.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/windowscontainers/about/faq.md) | InSyncHandedBackSuccess | [Details](#f176f83a5f5bc76e32b5687866d2ced7d0a91d57206)
  [virtualization\windowscontainers\about\media\containerEcosystem.png](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/windowscontainers/about/media/containerEcosystem.png) | InSyncHandedBackSuccess | [Details](#93ee375f9efb3462c5d1e4ba45248fe9dde58566208)
@@ -150,28 +147,6 @@
 * Handback File: [00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0.png](https://github.com/OpenLocalizationOrg/olhandback/blob/fa45d2aee5c5fcc4ebf423e2a5b870151c81691b/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0.png)
 * Handback Datetime: 2016-01-05 09:11:18
 * Dependency From: virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md
-* [Back to Top](#report-top)
-
-##### <a name='7c81ad16e094e7991716b59d4b80a8409ea7ef80101'></a> Source: [virtualization\hyperv_on_windows\about\supported_guest_os.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/about/supported_guest_os.md)
-* Status: HandedBackFailed
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Error: [handback_transform_failed](#7c81ad16e094e7991716b59d4b80a8409ea7ef80101handback_transform_failed)
-* [Back to Top](#report-top)
-
-##### <a name='18ddc4fbc1c483e781564019ade6261d7e099552102'></a> Source: [virtualization\hyperv_on_windows\about\whats_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/about/whats_new.md)
-* Status: HandedBackFailed
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Error: [handback_transform_failed](#18ddc4fbc1c483e781564019ade6261d7e099552102handback_transform_failed)
 * [Back to Top](#report-top)
 
 ##### <a name='175fe300a03c01dfc6e8e1d2cf000e8612a7bec4103'></a> Source: [virtualization\hyperv_on_windows\develop\make_mgmt_servic.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/develop/make_mgmt_servic.md)
@@ -902,17 +877,6 @@
 * Handback Datetime: 2016-01-05 09:11:18
 * [Back to Top](#report-top)
 
-##### <a name='c7ff2602aef25add233f1e67bc0e020244895c48204'></a> Source: [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/windowscontainers/about/about_overview.md)
-* Status: HandedBackFailed
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Error: [handback_transform_failed](#c7ff2602aef25add233f1e67bc0e020244895c48204handback_transform_failed)
-* [Back to Top](#report-top)
-
 ##### <a name='6c0ebd80ac08763eafebe935b08194a526ad59fa205'></a> Source: [virtualization\windowscontainers\about\container_ecosystem.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/windowscontainers/about/container_ecosystem.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [virtualization\windowscontainers\about\container_ecosystem.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/1244bab1c67eff8dda8d2fe4627aee4101b5d7dc/virtualization/windowscontainers/about/container_ecosystem.md)
@@ -1208,23 +1172,5 @@
 
 
 ## Error Details
-##### <a name='7c81ad16e094e7991716b59d4b80a8409ea7ef80101handback_transform_failed'></a> Source: [virtualization\hyperv_on_windows\about\supported_guest_os.md](#7c81ad16e094e7991716b59d4b80a8409ea7ef80101)
-* Error Code: handback_transform_failed
-* Error Message: Handback file: C:\gittest\master\OpenLocalizationService\olhandback\0717b0\ol-handback\OpenLocalizationOrg\hyperV.zh-cn\master\supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.zh-cn.xlf failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\0717b0\\ol-handback\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.zh-cn.xlf failed.","internal_error_retriable":false,"exception_message":"Unidentified key name","exception_type":"System.InvalidOperationException","stack_trace":"   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.HandleSegment(MarkdownSegment segment, String segmentContent, Dictionary`2 itemDict)\r\n   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, Stream xliffStream, Stream skeletonStream, Stream targetStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 40\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandbackFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, GitRepo handbackRepo, TranslationState translationInfo, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 358","extended_information":null}
-
-##### <a name='18ddc4fbc1c483e781564019ade6261d7e099552102handback_transform_failed'></a> Source: [virtualization\hyperv_on_windows\about\whats_new.md](#18ddc4fbc1c483e781564019ade6261d7e099552102)
-* Error Code: handback_transform_failed
-* Error Message: Handback file: C:\gittest\master\OpenLocalizationService\olhandback\0717b0\ol-handback\OpenLocalizationOrg\hyperV.zh-cn\master\whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.zh-cn.xlf failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\0717b0\\ol-handback\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.zh-cn.xlf failed.","internal_error_retriable":false,"exception_message":"Unidentified key name","exception_type":"System.InvalidOperationException","stack_trace":"   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.HandleSegment(MarkdownSegment segment, String segmentContent, Dictionary`2 itemDict)\r\n   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, Stream xliffStream, Stream skeletonStream, Stream targetStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 40\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandbackFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, GitRepo handbackRepo, TranslationState translationInfo, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 358","extended_information":null}
-
-##### <a name='c7ff2602aef25add233f1e67bc0e020244895c48204handback_transform_failed'></a> Source: [virtualization\windowscontainers\about\about_overview.md](#c7ff2602aef25add233f1e67bc0e020244895c48204)
-* Error Code: handback_transform_failed
-* Error Message: Handback file: C:\gittest\master\OpenLocalizationService\olhandback\0717b0\ol-handback\OpenLocalizationOrg\hyperV.zh-cn\master\about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.zh-cn.xlf failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\0717b0\\ol-handback\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.zh-cn.xlf failed.","internal_error_retriable":false,"exception_message":"Unidentified key name","exception_type":"System.InvalidOperationException","stack_trace":"   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.HandleSegment(MarkdownSegment segment, String segmentContent, Dictionary`2 itemDict)\r\n   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, Stream xliffStream, Stream skeletonStream, Stream targetStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 40\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandbackFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, GitRepo handbackRepo, TranslationState translationInfo, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 358","extended_information":null}
-
 
 Generated by OpenLocalization.
