@@ -5,8 +5,8 @@
  -------- | ----- 
  Total Files | 269
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
-[ Handback Failed Files ](#handback-failed-list)| 3
+[ Handoff Success Files ](#handoff-success-list)| 0
+[ Handback Failed Files ](#handback-failed-list)| 4
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 2
 [ In Sync Handback Files ](#insync-handback-success-list)| 97
 [ Ignored Files ](#ignored-list)| 166
@@ -14,15 +14,13 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Sucess File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/b48473e5d5b1228ec7c6822edc90e41df4c38ba8/virtualization/hyperv_on_windows/windows_welcome1.md) | HandedOffSuccess | [Details](#97b7a61587c66152db853a90d5be37c9132d7db1202)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [virtualization\hyperv_on_windows\about\supported_guest_os.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/about/supported_guest_os.md) | HandedBackFailed | [Details](#7c81ad16e094e7991716b59d4b80a8409ea7ef80101)
  [virtualization\hyperv_on_windows\about\whats_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/hyperv_on_windows/about/whats_new.md) | HandedBackFailed | [Details](#18ddc4fbc1c483e781564019ade6261d7e099552102)
+ [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/b48473e5d5b1228ec7c6822edc90e41df4c38ba8/virtualization/hyperv_on_windows/windows_welcome1.md) | HandedBackFailed | [Details](#97b7a61587c66152db853a90d5be37c9132d7db1202)
  [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/8a654acb65f8ed3127e09fe77ef670b0cf0125c2/virtualization/windowscontainers/about/about_overview.md) | HandedBackFailed | [Details](#c7ff2602aef25add233f1e67bc0e020244895c48204)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
@@ -2378,13 +2376,14 @@
 * [Back to Top](#report-top)
 
 ##### <a name='97b7a61587c66152db853a90d5be37c9132d7db1202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/b48473e5d5b1228ec7c6822edc90e41df4c38ba8/virtualization/hyperv_on_windows/windows_welcome1.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/4d2d2c872bf2a03403d4a7f38bfc3f668ede1cc1/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf)
 * Handoff Datetime: 2016-01-08 16:37:46
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Error: [handback_validate_file_name_invalide](#97b7a61587c66152db853a90d5be37c9132d7db1202handback_validate_file_name_invalide)
 * [Back to Top](#report-top)
 
 ##### <a name='e5877c364958afd9eb0520572b2a8982d4bbde03203'></a> Source: [virtualization\TOC.csv](https://github.com/OpenLocalizationOrg/hyperV/blob/b48473e5d5b1228ec7c6822edc90e41df4c38ba8/virtualization/TOC.csv)
@@ -3077,6 +3076,12 @@
 * Error Message: Handback file: C:\gittest\master\OpenLocalizationService\olhandback\0717b0\ol-handback\OpenLocalizationOrg\hyperV.zh-cn\master\whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.zh-cn.xlf failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\0717b0\\ol-handback\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.zh-cn.xlf failed.","internal_error_retriable":false,"exception_message":"Unidentified key name","exception_type":"System.InvalidOperationException","stack_trace":"   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.HandleSegment(MarkdownSegment segment, String segmentContent, Dictionary`2 itemDict)\r\n   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, Stream xliffStream, Stream skeletonStream, Stream targetStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 40\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandbackFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, GitRepo handbackRepo, TranslationState translationInfo, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 358","extended_information":null}
+
+##### <a name='97b7a61587c66152db853a90d5be37c9132d7db1202handback_validate_file_name_invalide'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](#97b7a61587c66152db853a90d5be37c9132d7db1202)
+* Error Code: handback_validate_file_name_invalide
+* Error Message: Handback file name: windows_welcome1_1eec8547e8270740cdb6073b648778b04421e23a_zh-cn is different with handoff file name: windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: windows_welcome1_1eec8547e8270740cdb6073b648778b04421e23a_zh-cn is different with handoff file name: windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.","internal_error_retriable":false,"exception_message":"Handback file name: windows_welcome1_1eec8547e8270740cdb6073b648778b04421e23a_zh-cn is different with handoff file name: windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
 ##### <a name='c7ff2602aef25add233f1e67bc0e020244895c48204handback_transform_failed'></a> Source: [virtualization\windowscontainers\about\about_overview.md](#c7ff2602aef25add233f1e67bc0e020244895c48204)
 * Error Code: handback_transform_failed
