@@ -2659,7 +2659,7 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "2016-01-08T16:53:59.795642Z",
+      "HandbackDateTime": "2016-01-08T16:56:42.3371151Z",
       "HandbackException": {
         "internal_error_code": "handback_validate_file_name_invalide",
         "internal_error_message": "Handback file name: windows_welcome1_1eec8547e8270740cdb6073b648778b04421e23a_zh-cn is different with handoff file name: windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.",
@@ -2669,7 +2669,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 5,
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
