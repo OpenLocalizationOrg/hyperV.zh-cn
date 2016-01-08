@@ -1,11 +1,24 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2cad79c61b3eb2669460081af97c684de5eb50a1/virtualization/hyperv_on_windows/windows_welcome1.md) | HandedOffSuccess | [Details](#6efe25bd18478e4de51fc4693054eb025a94d068202)
 
 ## Item Details
+##### <a name='6efe25bd18478e4de51fc4693054eb025a94d068202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2cad79c61b3eb2669460081af97c684de5eb50a1/virtualization/hyperv_on_windows/windows_welcome1.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ee9d97da3a8249ae5087d681958033eb5413c2e4/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf)
+* Handoff Datetime: 2016-01-08 13:50:01
+* Handoff Reason: Include
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
