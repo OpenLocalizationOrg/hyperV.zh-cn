@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "6d639f1d7cfda97fec05851923d55ef79f73f116",
-  "LastTranslatedCommit": "f7b8afa9dc006d28375585b766fe3fed765e28ba",
+  "LastTranslatedCommit": "d6df2a71c3fecd7775dbe2723087058f625cab00",
   "Items": {
     "ed968510a1e72e532a3e4df850bed9a40050619c": {
       "FileHash": "ed968510a1e72e532a3e4df850bed9a40050619c",
@@ -2678,14 +2678,14 @@
       "HandoffDateTime": "2016-01-11T06:03:18.794623Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": "f7b8afa9dc006d28375585b766fe3fed765e28ba",
+      "TargetFileCommit": "d6df2a71c3fecd7775dbe2723087058f625cab00",
       "TargetFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf",
-      "HandbackFileCommit": "bf5a89e459106a5946571a497026430421121bc9",
-      "HandbackDateTime": "2016-01-11T06:26:39.4722857Z",
+      "HandbackFileCommit": "d7bac14490b3cfb29897a9ca201915b90b6bd5fa",
+      "HandbackDateTime": "2016-01-11T06:35:04.0477476Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "2016-01-11T06:26:39.4722857Z"
+      "UpdatedDateTime": "2016-01-11T06:35:04.0477476Z"
     }
   }
 }
