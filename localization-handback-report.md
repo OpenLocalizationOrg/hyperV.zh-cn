@@ -1,11 +1,24 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/96fb410ea512fcbe0ee6cee8dc1f6929ad310edf/virtualization/hyperv_on_windows/windows_welcome1.md) | InSyncHandedBackSuccess | [Details](#4535ce1d4051075dd73c61787c26afee15e21b3d202)
 
 ## Item Details
+##### <a name='4535ce1d4051075dd73c61787c26afee15e21b3d202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/96fb410ea512fcbe0ee6cee8dc1f6929ad310edf/virtualization/hyperv_on_windows/windows_welcome1.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/f390ecf0cb70d0e1a71e03ea826357895d12a3f3/virtualization/hyperv_on_windows/windows_welcome1.md)
+* Handoff File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a0857a06212e64745ddfb0ff07cd5283cc72dcb4/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf)
+* Handoff Datetime: 2016-01-11 14:53:51
+* Handoff Reason: Include
+* Handback File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/7f248fb77f587d74d93d09f667d737123bc2677c/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-cn.xlf)
+* Handback Datetime: 2016-01-11 15:01:44
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
