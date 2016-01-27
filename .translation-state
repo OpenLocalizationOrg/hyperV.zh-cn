@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "96fb410ea512fcbe0ee6cee8dc1f6929ad310edf",
+  "LastProcessedCommit": "7fa6e0ce6237d200f0b605e0a94a9375706e20cc",
   "LastTranslatedCommit": "f390ecf0cb70d0e1a71e03ea826357895d12a3f3",
   "Items": {
     "ed968510a1e72e532a3e4df850bed9a40050619c": {
@@ -121,9 +121,9 @@
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
       ],
-      "HandoffFilePath": null,
-      "HandoffFileCommit": null,
-      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.zh-cn.xlf",
+      "HandoffFileCommit": "a73ac9e9b11e65388fa2004e01fa4b7f83487d57",
+      "HandoffDateTime": "2016-01-27T05:45:43.8995252Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -156,9 +156,9 @@
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\about\\whats_new.md"
       ],
-      "HandoffFilePath": null,
-      "HandoffFileCommit": null,
-      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.zh-cn.xlf",
+      "HandoffFileCommit": "a73ac9e9b11e65388fa2004e01fa4b7f83487d57",
+      "HandoffDateTime": "2016-01-27T05:45:43.8995252Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -301,7 +301,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-cn.xlf",
       "HandoffFileCommit": "776d183e8221e4ca51e10cf394e797cb11a56f22",
@@ -327,7 +328,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\standard1.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard1.png"
@@ -356,7 +358,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_notepad.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_notepad.png"
@@ -385,7 +388,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\checkpoint_button.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\checkpoint_button.png"
@@ -414,7 +418,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\save_standard.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\save_standard.png"
@@ -443,7 +448,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_complete.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_complete.png"
@@ -472,7 +478,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\production.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\production.png"
@@ -501,7 +508,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\production_CheckpointName.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\production_CheckpointName.png"
@@ -530,7 +538,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\production_complete.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\production_complete.png"
@@ -559,7 +568,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\apply_standard.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\apply_standard.png"
@@ -588,7 +598,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied.png"
@@ -617,7 +628,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied_notepad.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied_notepad.png"
@@ -647,7 +659,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\start.png"
@@ -676,7 +689,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\production_notepad.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\production_notepad.png"
@@ -705,7 +719,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_me.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_me.png"
@@ -734,7 +749,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_checkpoint.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_checkpoint.png"
@@ -763,7 +779,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_warn.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_warn.png"
@@ -792,7 +809,8 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\after_delete.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\after_delete.png"
@@ -2126,9 +2144,9 @@
       "FilePathList": [
         "virtualization\\windowscontainers\\about\\about_overview.md"
       ],
-      "HandoffFilePath": null,
-      "HandoffFileCommit": null,
-      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.zh-cn.xlf",
+      "HandoffFileCommit": "a73ac9e9b11e65388fa2004e01fa4b7f83487d57",
+      "HandoffDateTime": "2016-01-27T05:45:43.8995252Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -3230,6 +3248,33 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-01-11T15:01:44.1695715Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "03ad6f773fd0159d563eed92143e38fa65e12548": {
+      "FileHash": "03ad6f773fd0159d563eed92143e38fa65e12548",
+      "SourceFileCommit": "7fa6e0ce6237d200f0b605e0a94a9375706e20cc",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.zh-cn.xlf",
+      "HandoffFileCommit": "a73ac9e9b11e65388fa2004e01fa4b7f83487d57",
+      "HandoffDateTime": "2016-01-27T05:45:43.8995252Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
