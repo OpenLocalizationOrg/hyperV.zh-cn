@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "7fa6e0ce6237d200f0b605e0a94a9375706e20cc",
+  "LastProcessedCommit": "6753a232dd5d4aecb7a179df9deef1a92eace59d",
   "LastTranslatedCommit": "924a615cb3dc5e9bcc042828f11b89266ba24c33",
   "Items": {
     "ed968510a1e72e532a3e4df850bed9a40050619c": {
@@ -835,7 +835,7 @@
     },
     "0291267af91e0eb2f2bcc068176fe822a7727df3": {
       "FileHash": "0291267af91e0eb2f2bcc068176fe822a7727df3",
-      "SourceFileCommit": "8a654acb65f8ed3127e09fe77ef670b0cf0125c2",
+      "SourceFileCommit": "6753a232dd5d4aecb7a179df9deef1a92eace59d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -843,18 +843,18 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.zh-cn.xlf",
-      "HandoffFileCommit": "776d183e8221e4ca51e10cf394e797cb11a56f22",
-      "HandoffDateTime": "2016-01-05T09:05:04.7895996Z",
+      "HandoffFileCommit": "61a8aa218feaf069e1c267cbb59631aa392bc581",
+      "HandoffDateTime": "2016-01-27T06:16:03.7242839Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": "1244bab1c67eff8dda8d2fe4627aee4101b5d7dc",
-      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
-      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.zh-cn.xlf",
-      "HandbackFileCommit": "fa45d2aee5c5fcc4ebf423e2a5b870151c81691b",
-      "HandbackDateTime": "2016-01-05T09:11:18.1478304Z",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "2016-01-05T09:11:18.1478304Z",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
