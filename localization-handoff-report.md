@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\windowscontainers\quick_start\quickstart.md](https://github.com/OpenLocalizationOrg/hyperV/blob/737895bce6629d1b755acb3602c1753d4a465698/virtualization/windowscontainers/quick_start/quickstart.md) | OutofSyncHandedBackSuccess | [Details](#70c133bd362c877067a632568f3f3c495c1212ee264)
 
 ## Item Details
+##### <a name='70c133bd362c877067a632568f3f3c495c1212ee264'></a> Source: [virtualization\windowscontainers\quick_start\quickstart.md](https://github.com/OpenLocalizationOrg/hyperV/blob/737895bce6629d1b755acb3602c1753d4a465698/virtualization/windowscontainers/quick_start/quickstart.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/399a0bd6fc72d1348efcc2f2aef9d8b41de21242/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.zh-cn.xlf)
+* Handoff Datetime: 2016-02-22 14:59:27
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\windowscontainers\quick_start\quickstart.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/1244bab1c67eff8dda8d2fe4627aee4101b5d7dc/virtualization/windowscontainers/quick_start/quickstart.md)
+* Current Handback File: [quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/fa45d2aee5c5fcc4ebf423e2a5b870151c81691b/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.zh-cn.xlf)
+* Current Handback Datetime: 2016-01-05 09:11:18
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
