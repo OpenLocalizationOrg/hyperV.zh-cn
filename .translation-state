@@ -3863,9 +3863,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\live\\archive\\TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf",
+      "ArchiveFileCommit": "e1f23059c6d4ac9e9242b30a84c0743c82128854",
+      "ArchiveFileDateTime": "2016-02-29T07:50:56.1996461Z",
       "ArchiveException": null
     }
   }

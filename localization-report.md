@@ -2647,8 +2647,8 @@
 * Handoff File: [TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2c7d826bd05b725e282209280fcff3acf56c7930/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/live/TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf)
 * Handoff Datetime: 2016-02-26 13:35:57
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e1f23059c6d4ac9e9242b30a84c0743c82128854/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/live/archive/TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf)
+* Archive Datetime: 2016-02-29 07:50:56
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/35fbc98723a162bf837f2d2404b32e815225febb/virtualization/hyperv_on_windows/TOC.md)
