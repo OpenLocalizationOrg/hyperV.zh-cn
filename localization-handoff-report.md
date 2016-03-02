@@ -6,21 +6,21 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/eb6e63f67954474993eb8aba2bd6d540b0329580/virtualization/hyperv_on_windows/TOC.md) | OutofSyncHandedBackSuccess | [Details](#5c97e1d0b903b373d619d36dba1bf0a6d53d76d5190)
+ [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f057c603778c2c3b9ce35536d30e2a7195e4edfc/virtualization/windowscontainers/EULA.md) | OutofSyncHandedBackSuccess | [Details](#1a10d955236b48529884d98030ed526f52f16d2d222)
 
 ## Item Details
-##### <a name='5c97e1d0b903b373d619d36dba1bf0a6d53d76d5190'></a> Source: [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/eb6e63f67954474993eb8aba2bd6d540b0329580/virtualization/hyperv_on_windows/TOC.md)
+##### <a name='1a10d955236b48529884d98030ed526f52f16d2d222'></a> Source: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f057c603778c2c3b9ce35536d30e2a7195e4edfc/virtualization/windowscontainers/EULA.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e593c4be97b9f42077344281cbeebee55a901e50/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/mt-test/TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf)
-* Handoff Datetime: 2016-02-26 13:35:55
+* Handoff File: [EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a5361c4c68a637dde9371f5089a5f065c778f444/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/ht-legal/EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf)
+* Handoff Datetime: 2016-03-02 01:45:57
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/1244bab1c67eff8dda8d2fe4627aee4101b5d7dc/virtualization/hyperv_on_windows/TOC.md)
-* Current Handback File: [TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/fa45d2aee5c5fcc4ebf423e2a5b870151c81691b/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.zh-cn.xlf)
+* Current Target File: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/1244bab1c67eff8dda8d2fe4627aee4101b5d7dc/virtualization/windowscontainers/EULA.md)
+* Current Handback File: [EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/fa45d2aee5c5fcc4ebf423e2a5b870151c81691b/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf)
 * Current Handback Datetime: 2016-01-05 09:11:18
 * [Back to Top](#report-top)
 
