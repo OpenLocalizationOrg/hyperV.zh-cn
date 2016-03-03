@@ -8,8 +8,8 @@
 [ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 3
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 7
+[ Handback Failed Files ](#handback-failed-list)| 4
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 6
 [ In Sync Handback Files ](#insync-handback-success-list)| 95
 [ Ignored Files ](#ignored-list)| 166
 
@@ -27,6 +27,7 @@
  [virtualization\hyperv_on_windows\about\supported_guest_os.md](https://github.com/OpenLocalizationOrg/hyperV/blob/84bea08277ad8e3559585b9b8dfc77b334c435ac/virtualization/hyperv_on_windows/about/supported_guest_os.md) | HandedBackFailed | [Details](#7c81ad16e094e7991716b59d4b80a8409ea7ef80101)
  [virtualization\hyperv_on_windows\about\whats_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/84bea08277ad8e3559585b9b8dfc77b334c435ac/virtualization/hyperv_on_windows/about/whats_new.md) | HandedBackFailed | [Details](#18ddc4fbc1c483e781564019ade6261d7e099552102)
  [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/84bea08277ad8e3559585b9b8dfc77b334c435ac/virtualization/windowscontainers/about/about_overview.md) | HandedBackFailed | [Details](#c7ff2602aef25add233f1e67bc0e020244895c48206)
+ [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f8f8bf64a85c960db3f610b2a6d07f0e9316b035/virtualization/windowscontainers/EULA.md) | HandedBackFailed | [Details](#fa53c214597e4b34fa08c4682e0fc032441f3edc222)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
  Source File | Status | Details 
@@ -35,7 +36,6 @@
  [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/84bea08277ad8e3559585b9b8dfc77b334c435ac/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md) | OutofSyncHandedBackSuccess | [Details](#0a6bedc4986f18fe70975dab130b535537b1fc01184)
  [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/eb6e63f67954474993eb8aba2bd6d540b0329580/virtualization/hyperv_on_windows/TOC.md) | OutofSyncHandedBackSuccess | [Details](#5c97e1d0b903b373d619d36dba1bf0a6d53d76d5190)
  [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/84bea08277ad8e3559585b9b8dfc77b334c435ac/virtualization/windowscontainers/containers_welcome.md) | OutofSyncHandedBackSuccess | [Details](#aa0f803f7afebd865daf559531ae19c72a5fea16220)
- [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f8f8bf64a85c960db3f610b2a6d07f0e9316b035/virtualization/windowscontainers/EULA.md) | OutofSyncHandedBackSuccess | [Details](#fa53c214597e4b34fa08c4682e0fc032441f3edc222)
  [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperV/blob/84bea08277ad8e3559585b9b8dfc77b334c435ac/virtualization/windowscontainers/quick_start/manage_powershell.md) | OutofSyncHandedBackSuccess | [Details](#8072344dba9d8f7a1a59b8444801054d3c59095f231)
  [virtualization\windowscontainers\quick_start\quickstart.md](https://github.com/OpenLocalizationOrg/hyperV/blob/84bea08277ad8e3559585b9b8dfc77b334c435ac/virtualization/windowscontainers/quick_start/quickstart.md) | OutofSyncHandedBackSuccess | [Details](#70c133bd362c877067a632568f3f3c495c1212ee265)
 
@@ -3041,7 +3041,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='fa53c214597e4b34fa08c4682e0fc032441f3edc222'></a> Source: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f8f8bf64a85c960db3f610b2a6d07f0e9316b035/virtualization/windowscontainers/EULA.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fc82e1eb720e6541a8948c8a35d41b8d304a4329/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/ht-special/EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf)
 * Handoff Datetime: 2016-03-03 09:48:18
@@ -3050,6 +3050,7 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Error: [handback_validate_file_name_invalide](#fa53c214597e4b34fa08c4682e0fc032441f3edc222handback_validate_file_name_invalide)
 * Current Target File: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/1244bab1c67eff8dda8d2fe4627aee4101b5d7dc/virtualization/windowscontainers/EULA.md)
 * Current Handback File: [EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/fa45d2aee5c5fcc4ebf423e2a5b870151c81691b/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf)
 * Current Handback Datetime: 2016-01-05 09:11:18
@@ -3667,6 +3668,12 @@
 * Error Message: Handback file: C:\gittest\master\OpenLocalizationService\olhandback\0717b0\ol-handback\OpenLocalizationOrg\hyperV.zh-cn\master\about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.zh-cn.xlf failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\0717b0\\ol-handback\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.zh-cn.xlf failed.","internal_error_retriable":false,"exception_message":"Unidentified key name","exception_type":"System.InvalidOperationException","stack_trace":"   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.HandleSegment(MarkdownSegment segment, String segmentContent, Dictionary`2 itemDict)\r\n   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, Stream xliffStream, Stream skeletonStream, Stream targetStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 40\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandbackFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, GitRepo handbackRepo, TranslationState translationInfo, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 358","extended_information":null}
+
+##### <a name='fa53c214597e4b34fa08c4682e0fc032441f3edc222handback_validate_file_name_invalide'></a> Source: [virtualization\windowscontainers\EULA.md](#fa53c214597e4b34fa08c4682e0fc032441f3edc222)
+* Error Code: handback_validate_file_name_invalide
+* Error Message: Handback file name: EULA.0ba9560e121100b89b5825e4c97105b9c4695644.de-de is different with handoff file name: EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: EULA.0ba9560e121100b89b5825e4c97105b9c4695644.de-de is different with handoff file name: EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.","internal_error_retriable":false,"exception_message":"Handback file name: EULA.0ba9560e121100b89b5825e4c97105b9c4695644.de-de is different with handoff file name: EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
 
 Generated by OpenLocalization.
