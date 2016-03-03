@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "21854d0b44043c3048749737b6076a9a07c57e33",
-  "LastTranslatedCommit": "266f70a799e671d8a1bd0ad7d50362d4814ea3aa",
+  "LastTranslatedCommit": "dce36e8b12e8320da6913f9a78e79d3c56967289",
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
       "FileHash": "08796bf856b1936c65df41076765d9f33d79e268",
@@ -3883,14 +3883,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "dce36e8b12e8320da6913f9a78e79d3c56967289",
+      "TargetFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperV.zh-cn\\live\\containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-cn.xlf",
+      "HandbackFileCommit": "daf0714e4f99e0f87fef8ec862749bc1d5aa76e7",
+      "HandbackDateTime": "2016-03-03T11:17:06.8247106Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-03-03T11:17:06.8247106Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
