@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f8f8bf64a85c960db3f610b2a6d07f0e9316b035/virtualization/windowscontainers/EULA.md) | InSyncHandedBackSuccess | [Details](#fa53c214597e4b34fa08c4682e0fc032441f3edc222)
 
 ## Item Details
-##### <a name='fa53c214597e4b34fa08c4682e0fc032441f3edc222'></a> Source: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f8f8bf64a85c960db3f610b2a6d07f0e9316b035/virtualization/windowscontainers/EULA.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/6303352f391d426dc0ed9f9dfea16de0b21b1014/virtualization/windowscontainers/EULA.md)
-* Handoff File: [EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fc82e1eb720e6541a8948c8a35d41b8d304a4329/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/master/ht-special/EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf)
-* Handoff Datetime: 2016-03-03 09:48:18
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a6456ecf18ab58fcc9cbb0f87d562175c35e268d/ol-handback/OpenLocalizationOrg/hyperV.zh-cn/master/ht-special/EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf)
-* Handback Datetime: 2016-03-03 09:56:57
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
