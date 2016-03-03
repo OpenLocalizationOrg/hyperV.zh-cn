@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "f057c603778c2c3b9ce35536d30e2a7195e4edfc",
+  "LastProcessedCommit": "f8f8bf64a85c960db3f610b2a6d07f0e9316b035",
   "LastTranslatedCommit": "eecb73e0728aa88a27ca40fb30cc96a0cccf0df3",
   "Items": {
     "ed968510a1e72e532a3e4df850bed9a40050619c": {
@@ -3830,6 +3830,34 @@
       "HandoffFileCommit": "a5361c4c68a637dde9371f5089a5f065c778f444",
       "HandoffDateTime": "2016-03-02T01:45:57.5489584Z",
       "HandoffPriority": "ht-legal",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "fa53c214597e4b34fa08c4682e0fc032441f3edc": {
+      "FileHash": "fa53c214597e4b34fa08c4682e0fc032441f3edc",
+      "SourceFileCommit": "f8f8bf64a85c960db3f610b2a6d07f0e9316b035",
+      "SourceFilePath": "virtualization\\windowscontainers\\EULA.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\EULA.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-cn\\master\\ht-special\\EULA.0ba9560e121100b89b5825e4c97105b9c4695644.zh-cn.xlf",
+      "HandoffFileCommit": "fc82e1eb720e6541a8948c8a35d41b8d304a4329",
+      "HandoffDateTime": "2016-03-03T09:48:18.7777772Z",
+      "HandoffPriority": "ht-special",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
