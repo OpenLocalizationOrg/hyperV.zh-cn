@@ -228,6 +228,10 @@
   "8038edc8eac0a017e688401c61e5a78787f26bd6": [
     "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
   ],
+  "a26fcbf2016944cace1f75451c1ad50d55313943": [
+    "virtualization\\windowscontainers\\EULA.md",
+    "virtualization\\hyperv_on_windows\\ECULA.md"
+  ],
   "fa53c214597e4b34fa08c4682e0fc032441f3edc": [
     "virtualization\\windowscontainers\\EULA.md"
   ],
