@@ -2608,8 +2608,8 @@
 * Handoff File: [walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3401f6ff2532a216f7f94ada5846caaa8a9f44e3/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/live/walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.zh-cn.xlf)
 * Handoff Datetime: 2016-03-10 05:30:24
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/eeb343d01741dfdb8552f7300bf2f1d36f4f0129/ol-handoff/OpenLocalizationOrg/hyperV.zh-cn/live/archive/walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.zh-cn.xlf)
+* Archive Datetime: 2016-03-23 02:06:10
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md](https://github.com/OpenLocalizationOrg/hyperV.zh-cn/blob/35fbc98723a162bf837f2d2404b32e815225febb/virtualization/hyperv_on_windows/quick_start/walkthrough_powershell.md)
